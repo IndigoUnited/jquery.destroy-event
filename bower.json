@@ -1,0 +1,26 @@
+{
+  "name": "jquery.destroy-event",
+  "version": "0.1.0",
+  "main": "lib/jquery.destroy-event.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.0"
+  },
+  "homepage": "https://github.com/IndigoUnited/jquery.destroy-event",
+  "authors": [
+    "IndigoUnited"
+  ],
+  "description": "Adds support for \"destroy\" event on elements",
+  "keywords": [
+    "destroy",
+    "remove",
+    "destroyed",
+    "jquery"
+  ]
+}
